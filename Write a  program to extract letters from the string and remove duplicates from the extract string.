@@ -1,0 +1,6 @@
+i="a2fd2g3"
+o=''
+for t in i:
+    if t.isalpha():
+       o+=t
+print(o)
